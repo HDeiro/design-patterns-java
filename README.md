@@ -22,7 +22,7 @@ This repository contains implementations of design patterns presented by Erich G
 - [ ] Proxy
 
 ##### Behavioral
-- [ ] Template Method
+- [X] Template Method
 - [ ] Interpreter
 - [ ] Chain of Responsability
 - [ ] Command
