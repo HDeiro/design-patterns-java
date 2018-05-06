@@ -13,3 +13,7 @@ Basically, the Template Method is a method that can pre-implement some details a
 ![Template Method](https://github.com/HDeiro/design-patterns-java/blob/master/behavioral/class/template_method/TemplateMethod.png?raw=true)
 
 You have an abstract class that contains a final and concrete method, that is your template method. This will invoke the abstract methods that will be implemented on subclasses.
+
+##### References
+
+- [DZone - Template Method Pattern Tutorial with Java Examples](https://dzone.com/articles/design-patterns-template-method)
