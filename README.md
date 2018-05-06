@@ -1,6 +1,6 @@
 This repository contains implementations of design patterns presented by Erich Gamma, Richard Helm, Ralph Johnson and John Vlissides (a.k.a. Gang of Four) on "Design Patterns - Elements of Reusable Object-Oriented Software".
 
-![Patterns Table](https://raw.githubusercontent.com/hdeiro/design-patterns-java/master/patterns-table.png)
+![Patterns Table](https://github.com/HDeiro/design-patterns-java/blob/master/patterns-table.PNG?raw=true)
 
 ### List of Patterns:
 
