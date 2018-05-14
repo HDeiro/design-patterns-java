@@ -5,7 +5,7 @@ This repository contains implementations of design patterns presented by Erich G
 ### List of Patterns:
 
 ##### Creational
-- [ ] Singleton
+- [X] Singleton
 - [ ] Abstract Factory
 - [ ] Prototype
 - [ ] Factory Method
